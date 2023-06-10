@@ -1,0 +1,33 @@
+[
+    {
+      "codEditora": 1,
+      "nomeEdit": "Editora Alpha",
+      "endereco": "Rua das Flores, 123",
+      "cep": "12345-678"
+    },
+    {
+      "codEditora": 2,
+      "nomeEdit": "Editora Beta",
+      "endereco": "Avenida das Palmeiras, 456",
+      "cep": "23456-789"
+    },
+    {
+      "codEditora": 3,
+      "nomeEdit": "Editora Gama",
+      "endereco": "Rua dos Pinheiros, 789",
+      "cep": "34567-890"
+    },
+    {
+      "codEditora": 4,
+      "nomeEdit": "Editora Delta",
+      "endereco": "Avenida das Acácias, 012",
+      "cep": "45678-901"
+    },
+    {
+      "codEditora": 5,
+      "nomeEdit": "Editora Epsilon",
+      "endereco": "Rua dos Cravos, 345",
+      "cep": "56789-012"
+    }
+  ]
+  

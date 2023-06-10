@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+  background-color: #687288;
+}
+
+.App-header {
+  --background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 4vmin);
+  color: rgb(243, 227, 3);
+  font-size: 25px;
+}
+
+.App-body {
+  background-color: #687288;
+  
+  align-items: right;
+  justify-content: left;
+  font-size: 100vh;
+  color: #687288;
+}
+---------------------------------------------------
+
+.buttons {
+  background-color: #282c34;
+}
+
+.buttons button {
+  background-color: #282c34;
+  width: 12%;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(243, 227, 3);
+  margin-bottom: 0px;
+}
+
+footer {
+  background-color: #282c34;
+  padding: 1px;
+  color: rgb(243, 227, 3);
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  font-size: 11px;
+}

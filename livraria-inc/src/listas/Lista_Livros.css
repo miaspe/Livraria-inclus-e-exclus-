@@ -1,0 +1,21 @@
+.table {
+    display: table;
+    border-collapse: collapse;
+    margin: auto;
+    width: 98%;
+  }
+  
+  .row {
+    display: table-row;
+  }
+  
+  .header {
+    font-weight: bold;
+  }
+  
+  .cell {
+    display: table-cell;
+    border: 1px solid black;
+    padding: 5px;
+  }
+  

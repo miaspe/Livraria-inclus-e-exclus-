@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "title": "O Senhor dos Anéis",
+      "resumo": "Eiusmod consequat esse sint culpa. Laboris sint commodo et adipisicing. Consequat reprehenderit proident fugiat elit tempor eu. Irure sit amet non ipsum reprehenderit quis adipisicing aliquip ad dolore ex.",
+      "author": "J.R.R. Tolkien",
+      "publisher": 1,
+      "Categoria": "Ficção/Fant/RPG"
+    },
+    {
+      "id": 2,
+      "title": "Dom Casmurro",
+      "resumo": "Laboris sint commodo et adipisicing. Consequat reprehenderit proident fugiat elit tempor eu. Irure sit amet non ipsum reprehenderit quis adipisicing aliquip ad dolore ex.",
+      "author": "Machado de Assis",
+      "publisher": 2,
+      "Categoria": "Romance"
+    },
+    {
+      "id": 3,
+      "title": "O Pequeno Príncipe",
+      "resumo": "lorAnim elit esse tempor mollit ex consequat ad. Eu aute non nostrud eiusmod ut cupidatat pariatur veniam aute ipsum nostrud. Adipisicing eiusmod ad ad irure ea tempor laborum veniam. Elit est quis ad aute culpa aliquip cupidatat quis voluptate.",
+      "author": "Antoine de Saint-Exupéry",
+      "publisher": 3,
+      "Categoria": "Fantasia/infantil"
+    },
+    {
+      "id": 4,
+      "title": "StarWars - Rise Vader",
+      "resumo": "Eu aute non nostrud eiusmod ut cupidatat pariatur veniam aute ipsum nostrud. Adipisicing eiusmod ad ad irure ea tempor laborum veniam. Elit est quis ad aute culpa aliquip cupidatat quis voluptate.",
+      "author": "Michael Port",
+      "publisher": 2,
+      "Categoria": "Fantasia/Ficção"
+    }
+  ]
+  
